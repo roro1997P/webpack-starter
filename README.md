@@ -1,15 +1,16 @@
-# 🚀 Welcome to your new awesome project!
+# Webpack Starter
 
-This project has been created using **webpack scaffold**, you can now run
+Este es el proyecto inicial para crear aplicaciones usando webpack.
+
+### Notas:
+Recuerden reconstruir los módulos de Node
+
+```
+npm install
+```
+
+Y para construir el build:
 
 ```
 npm run build
 ```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
